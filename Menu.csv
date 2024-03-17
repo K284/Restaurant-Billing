@@ -1,0 +1,102 @@
+CODE,NAME,RATE
+BREAKFAST
+bf1,Aappam,15.0
+bf10,Chicken Idly(Set),40.0
+bf11,Dosa,35.0
+bf12,Egg Aappam,25.0
+bf13,Egg Dosa,45.0
+bf14,Egg Utthappam,45.0
+bf15,Fish Gravy,60.0
+bf16,Idiyappam(Set),20.0
+bf2,Idly(Set),15.0
+bf3,Kal Dosa,25.0
+bf4,Kotthu Idiyappam(Kudal Kuzhambu),70.0
+bf5,Mutton Curry Dosa,60.0
+bf6,Mutton Idly(Set),60.0
+bf7,Poori(Mutton Kotthu Curry),80.0
+bf8,Utthappam,30.0
+bf9,Chicken Curry Dosa,40.0
+SOUPS
+sp1,Mutton Soup,40.0
+sp2,Nattu Kozhi Soup,30.0
+sp3,Crab Soup,50.0
+STARTERS
+s1,Onion Pakkoda,30.0
+s10,Umbrella Chicken,120.0
+s11,Chicken Lollypop,110.0
+s12,Fish Finger,120.0
+s2,Chicken Pakkoda,60.0
+s3,Fish Vadai,80.0
+s4,Chicken Vadai,20.0
+s5,Chicken 65,60.0
+s6,Nandu 65,60.0
+s7,Kanavaai 65,60.0
+s8,Prawn 65,80.0
+s9,Kadaai 65,80.0
+MEALS
+m1,Veg Meals,70.0
+m2,Non-veg Meals,90.0
+BIRIYANI
+b1,Chicken Biriyani,100.0
+b2,Nattu Kozhi Biriyani,120.0
+b3,Mutton Biriyani,140.0
+b4,Egg Biriyani,80.0
+MUTTON DELICACY
+md1,Mutton Chops,120.0
+md10,Mutton Cola,50.0
+md11,Raththa Poriyal,40.0
+md2,Mutton Chukka,100.0
+md3,Mutton Paaya,60.0
+md4,Mutton Kotthu Curry,60.0
+md5,Mutton Brain Fry,100.0
+md6,Mutton Manneral,100.0
+md7,Mutton Liver,120.0
+md8,Mutton Kudal Fry,80.0
+md9,Mutton Pepper Fry,100.0
+CHICKEN DELICACY
+cd1,Chicken Chops,90.0
+cd10,Chicken Roast,100.0
+cd11,Chicken Onion Fry,80.0
+cd12,Chicken Toppyo,100.0
+cd13,Kadaai Chops,80.0
+cd14,Kadaai Roast,80.0
+cd15,Kadaai Onion Fry,80.0
+cd2,Chettinad Chicken,100.0
+cd3,Pepper Chicken,80.0
+cd4,Pallipalayam Chicken,100.0
+cd5,Karaikkudi Chicken,80.0
+cd6,Chicken Muzhi,80.0
+cd7,Chicken Chukka,90.0
+cd8,Chicken Pepper Fry,80.0
+cd9,Chicken Boneless,100.0
+SEA FOOD DELICACY
+sfd1,Nethili Fish Kuzhambu,100.0
+sfd10,Fish Podimas,120.0
+sfd11,Fish Bengali,120.0
+sfd2,Viraal Fish Kuzhambu,120.0
+sfd3,Ayirai Fish Kuzhambu,150.0
+sfd4,Sankara Fish Kuzhambu,80.0
+sfd5,Fish Mozhi,90.0
+sfd6,Nandu Kuzhambu,100.0
+sfd7,Prawn Thokku,90.0
+sfd8,Prawn Masala,80.0
+sfd9,Vanjaram Fish Fry,150.0
+FRESH JUICE
+fj1,Watermelon,80.0
+fj2,Orange,80.0
+fj3,Sweetlime Soda,80.0
+fj4,Lime Mint Coller,60.0
+fj5,Pomogranate,100.0
+fj6,Fresh Mango Juice,100.0
+ICE CREAM
+ic1,Vanilla,50.0
+ic10,Kesar Pista,55.0
+ic11,Almond Fudge,60.0
+ic2,Strawberry,50.0
+ic3,Mango,50.0
+ic4,Chocolate,45.0
+ic5,Kaju Kishmish,55.0
+ic6,Butter Scotch,56.0
+ic7,Black Currant,50.0
+ic8,Pineapple,50.0
+ic9,Fresh Litchi,50.0
